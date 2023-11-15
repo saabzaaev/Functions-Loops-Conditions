@@ -1,20 +1,20 @@
-# Functions-Loops-Conditions
-## Condition divided by three types
-* ### Condition IF/ELSE Statment
+# <span style="background-color: Yellow; color:black;">Functions-Loops-Conditions
+## <span style="color:rgb(0,255,0);">Condition divided by three types </span>
+* ### <span style="color:red;">Condition IF/ELSE Statment </span>
 ![ALT-picture](./image/conditionif.webp)
-* ### Condition TERNARY OPERATOR
+* ### <span style="color:red;">Condition TERNARY OPERATOR</span>
 ![ALT-picture](./image/ternari%20operator.webp)
-* ### Condition Swich Statment
+* ### <span style="color:red;">Condition Swich Statment </spans>
 ![ALT-picture](./image/Skilpundit-tutorial-javascript-switch.png)
 
-## Loops divided by three types
-* ## Loop for
+## <span style="color: rgb(0,255,0);">Loops divided by three types</span>
+* ## <span style="color: rgb(255,0,0);">Loop for</span>
 ### for (let i=0 ; i<=10 ; i++)
 ### {
     console.log(i)
 }
 
-* ## Loop While
+* ## <span style="color: rgb(255,0,0);">Loop While</span>
 ### let i = 0
 ### While (i <= 10)
 ### {
@@ -22,7 +22,7 @@
     console.log(i)
 }
 
-* ## Loop Do/While
+* ## <span style="color: rgb(255,0,0);">Loop Do/While</spanssssss>
 ### let i = 0
 ### DO
 ### {
@@ -30,8 +30,8 @@
     console.log(i)
 } While(i <= 10)
 
-## There are 3 ways to write functions in JavaScript
-### 1.Function declaration
+## <span style="color: rgb(0,255,0)"> There are 3 ways to write functions in JavaScript</span>
+### 1.<span style="color : red;">Function declaration </span>
 
 ### function sum(num1 , num2)
 ### {
@@ -39,7 +39,7 @@
 }
 ### console.log(sum(5 + 5))
 
-### 2.Function Expression
+### 2.<span style="color: red;">Function Expression
 
 * ### Arrow function
 ### let arrow = (number) =>{
@@ -54,8 +54,8 @@
 }
 ### console.log(anonymous(10))
 
-### 3.IIFE
-function(a , b)
-{
+### 3.<span style="color: red;">IIFE
+### function(a , b)
+### {
     return a + b
 }()
